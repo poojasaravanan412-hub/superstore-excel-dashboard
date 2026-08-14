@@ -5,8 +5,8 @@
 This project is an interactive **Superstore Sales & Profit Dashboard** built in **Microsoft Excel**. It transforms raw sales data into an easy-to-understand dashboard using Pivot Tables, Pivot Charts, Slicers, and Excel visualizations, allowing users to analyze sales performance, profit trends, customer insights, and state-wise sales.
 
 ## Dashboard Preview
+![Superstore Sales Dashboard](Super%20store%20Dashboard_Screenshot.png)
 
-*(The dashboard screenshot is included in this repository as `Super store Dashboard_Screenshot.png`.)*
 
 ## Tools Used
 
